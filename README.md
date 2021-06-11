@@ -6,6 +6,6 @@ AÑO 2020 - 2021
 
 Creador: David Arnes Muela
 
-Esta rama se considerara el nexo de todos los modulos, en el caso de este trabajo seran tres modulos CDU.
+En esta rama se dara el codigo y el testing correspondiente al primer modulo (CDU1) del proyecto. Tambien se aportaran algunos diagramas para complementar dentro de esta rama.
 
 # Pedidos online y offline
